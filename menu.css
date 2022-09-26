@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;1,200;1,300&family=Patrick+Hand+SC&family=Roboto:ital,wght@1,900&family=Source+Sans+Pro&display=swap');
+
+*{
+  margin: 0 auto;
+    padding: 0;
+  font-family:font-family: 'Nunito', sans-serif;
+}
+#menu-h{
+    max-width: 800px;
+    list-style: none;
+    padding: 0;
+}
+#menu-h ul{
+    display: inline;
+}
